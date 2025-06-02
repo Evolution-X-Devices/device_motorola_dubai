@@ -50,3 +50,4 @@ BOARD_AVB_VBMETA_SYSTEM_ROLLBACK_INDEX := $(BOARD_AVB_ROLLBACK_INDEX)
 
 # inherit from the proprietary version
 include vendor/motorola/dubai/BoardConfigVendor.mk
+include vendor/motorola/dubai-radio/BoardConfigVendor.mk
