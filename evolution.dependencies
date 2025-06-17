@@ -1,0 +1,19 @@
+[
+  {
+    "repository": "device_motorola_sm7325-common",
+    "target_path": "device/motorola/sm7325-common",
+    "remote": "evo-devices"
+  },
+  {
+    "repository": "Deivid-21s-Sources/proprietary_vendor_motorola_dubai",
+    "target_path": "vendor/motorola/dubai",
+    "remote": "github-non-los",
+    "branch": "lineage-22.2"
+  },
+  {
+    "repository": "Deivid-21s-Sources/proprietary_vendor_motorola_dubai-radio",
+    "target_path": "vendor/motorola/dubai-radio",
+    "remote": "github-non-los",
+    "branch": "lineage-22.2"
+  }
+]
